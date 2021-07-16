@@ -1,0 +1,11 @@
+browser=firefox
+url=http://cleartrip.com
+implicit.wait=30
+#excelpath=
+#username=
+#password=
+sheetName=Sheet1
+radioMulti=input[value='MultiCity']
+#moduleName_ObjectName
+flight_from=//body/div[@id='root']/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/input[1]
+flight_to=//body/div[@id='root']/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[5]/div[1]/div[1]/div[1]/input[1]
